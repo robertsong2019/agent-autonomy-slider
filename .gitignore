@@ -1,0 +1,15 @@
+# 敏感文件
+TOOLS.md
+MEMORY.md
+USER.md
+.env
+*.key
+*.token
+
+# OpenClaw 敏感文件
+.openclaw/
+.clawhub/
+
+# 操作系统
+.DS_Store
+Thumbs.db
