@@ -48,6 +48,18 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=image-ocr-reader",
       "source": "skillhub",
       "version": "1.0.0"
+    },
+    "agent-orchestrator-molter": {
+      "name": "Agent Orchestrator",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-orchestrator-molter",
+      "source": "skillhub",
+      "version": "1.0.5"
+    },
+    "agent-dashboard": {
+      "name": "Agent Dashboard",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-dashboard",
+      "source": "skillhub",
+      "version": "1.0.4"
     }
   }
 }

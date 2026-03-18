@@ -72,6 +72,14 @@
     "image-ocr-reader": {
       "version": "1.0.0",
       "installedAt": 1773761438594
+    },
+    "agent-orchestrator-molter": {
+      "version": "1.0.5",
+      "installedAt": 1773795978453
+    },
+    "agent-dashboard": {
+      "version": "1.0.4",
+      "installedAt": 1773799248890
     }
   }
 }
