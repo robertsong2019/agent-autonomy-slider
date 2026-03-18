@@ -60,6 +60,12 @@
       "zip_url": "https://lightmake.site/api/v1/download?slug=agent-dashboard",
       "source": "skillhub",
       "version": "1.0.4"
+    },
+    "x-trends": {
+      "name": "X Trends",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=x-trends",
+      "source": "skillhub",
+      "version": "1.2.1"
     }
   }
 }

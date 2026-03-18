@@ -80,6 +80,10 @@
     "agent-dashboard": {
       "version": "1.0.4",
       "installedAt": 1773799248890
+    },
+    "x-trends": {
+      "version": "1.2.1",
+      "installedAt": 1773811328444
     }
   }
 }

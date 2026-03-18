@@ -21,9 +21,51 @@
       "community-engagement"
     ],
     "currentRotationIndex": 6,
-    "lastHeartbeatExploration": "2026-03-18T11:28:00+08:00"
+    "lastHeartbeatExploration": "2026-03-18T16:33:00+08:00"
   },
   "explorationHistory": [
+    {
+      "date": "2026-03-18",
+      "topic": "AI Prototype Tools - Cursor",
+      "action": "发现 Cursor AI 代码编辑器，支持自主性滑块（从Tab 补全到完全自主）",
+      "notes": "企业级采用：NVIDIA 40,000 工程师、Stripe 数千员工，自主性可控"
+    },
+    {
+      "date": "2026-03-18",
+      "topic": "AI Embedded News - Open Toys",
+      "action": "发现开源 AI 玩具构建平台，父母可为孩子定制受控的 AI 玩具",
+      "notes": "边缘 AI + 数字主权：本地运行，父母拥有完全控制权"
+    },
+    {
+      "date": "2026-03-18",
+      "topic": "AI Agent Blogs - Agent Harness Anatomy",
+      "action": "发现 LangChain 的 Harness Engineering 框架，Agent = Model + Harness",
+      "notes": "Harness 工程系统化：文件系统、代码执行、沙箱、记忆、上下文管理、长期执行"
+    },
+    {
+      "date": "2026-03-18",
+      "topic": "skillhub-search - Swarm 生态",
+      "action": "发现 Swarm 系列技能，完整的多智能体系统生态（研究→开发→部署→监控→市场）",
+      "notes": "生态完整：swarm-safety、swarm-kanban、claw-swarm、agent-swarm 等覆盖全生命周期"
+    },
+    {
+      "date": "2026-03-18",
+      "topic": "Hacker News - Have a Fucking Website",
+      "action": "发现关于数字主权的观点文章，呼吁拥有自己的网站而不是依赖社交媒体",
+      "notes": "数字主权：拥有自己的内容、不受平台控制、建立邮件列表"
+    },
+    {
+      "date": "2026-03-18",
+      "topic": "GitHub Trending - ClawTeam (Agent Swarm)",
+      "action": "发现 HKUDS 的 Agent 群体智能系统，一条命令实现全自动化",
+      "notes": "角色化协作 + 群体智能 = 完整多 Agent 系统"
+    },
+    {
+      "date": "2026-03-18",
+      "topic": "GitHub Creative Work - holographic-memory-viz",
+      "action": "创建全息记忆可视化工具，交互式展示分布式记忆架构",
+      "notes": "教育性项目：将抽象概念可视化，纯前端实现，无依赖"
+    },
     {
       "date": "2026-03-18",
       "topic": "AI Prototype Tools - Bolt.new",
